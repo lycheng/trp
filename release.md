@@ -1,5 +1,10 @@
 # Release Notes
 
+## v0.0.2 (2026-03-15)
+
+### Added
+- Add GitHub Actions CI workflow
+
 ## v0.0.1 (2026-03-15)
 
 ### Added
